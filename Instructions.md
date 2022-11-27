@@ -19,7 +19,7 @@ Le visiteur repère le poste grâce à la signalétique (tbd).
 Il est accueilli par un élève qui lui fait le pitch et lui présente le principe de fonctionnement d'un VCS distribué ([schéma](Git.png) à l'appui), puis l'activité:
 
 - Nous écrivons une nouvelle version de l'histoire de Bonnie et Clyde, nous avons mis notre travail sous contrôle de version
-- Voici le repo [remote](https://github.com/ETML-INF/Bonnie-and-Clyde.git) sur Github
+- Voici le repo [remote](https://github.com/ETML-INF/Bonnie-and-Clyde.git) sur Github, voici l'histoire dans son état actuel, lisez-la !
 - Voici le repo local dans un environnement de développement (VS Code)
 - Voici l'application Github Desktop qui va nous permettre de synchroniser le repo local et le remote. Je me suis authentifié auprès de cette application.
 - Allez-y modifiez l'histoire à votre guise:
