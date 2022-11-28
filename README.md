@@ -8,7 +8,7 @@ Elle est belle et son prénom c'est Bonnie.
 Leurs noms : Bonnie Parker et Clyde Barrow, Bonnie and Clyde pour les intimes.
 
 "Moi, lorsque j'ai connu Clyde autrefois", dit Bonnie,
-"C'était un gars loyal, honnête et droit".
+"C'était un gars loyal, honnête, sympa et droit".
 "Il faut croire que c'est la société qui m'a définitivement abimé", rétorqua Clyde.
 
 Et d'ajouter: "Qu'est-ce qu'on n'a pas écrit sur elle et moi! On prétend que nous tuons de sang froid."
