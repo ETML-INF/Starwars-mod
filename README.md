@@ -23,6 +23,8 @@ Clyde s'en fout, c'est pour Bonnie qu'il tremble.
 "Quelle importance qu'ils me fassent la peau!" dit Bonnie,
 "Moi je tremble pour Clyde Barrow"
 
+Mais du coup, ils vont faire un dernier bracage qui va les rendre très célèbre.
+
 De toute façon ils ne pouvaient plus s'en sortir.
 La seule solution c'était mourir.
 Mais plus d'un les a suivis en enfer
