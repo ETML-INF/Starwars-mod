@@ -28,6 +28,4 @@ La seule solution c'était mourir.
 Mais plus d'un les a suivis en enfer
 Quand sont morts Barrow et Bonnie Parker
 
-Voilà.j'aime bien les massages!!
-
-espagne  >  japon
+Mais ils sont vecu ensemble jusqu'à la fin de ses jours.
