@@ -1,6 +1,8 @@
 # Bonnie and Clyde
 
-Ecoutez l'histoire de Bonnie and Clyde!
+Ecoutez l'histoire de Bonnie et Clyde!
+
+Tout commence en l'an -100 av. J.-C. ...
 
 Alors voilà, Clyde a une petite amie.
 Elle est belle et son prénom est Bonnie.
