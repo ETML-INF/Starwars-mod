@@ -7,14 +7,14 @@ Elle est belle et son prénom est Bonnie.
 À eux deux ils forment le gang Barrow-Parker.
 Leurs noms : Bonnie Parker et Clyde Barrow, Bonnie and Clyde pour les intimes.
 
-"Moi, lorsque j'ai connu Clyde autrefois", dit Bonnie,
+"Moi, lorsque j'ai connu Clyde autrefois", dit Bonnie.
 "C'était un gars loyal, honnête, sympa et droit".
 "Il faut croire que c'est la société qui m'a définitivement abimé", rétorqua Clyde.
-
+non
 Et d'ajouter: "Qu'est-ce qu'on n'a pas écrit sur elle et moi! On prétend que nous tuons de sang froid."
 Bonnie ajouta: "C'est pas drôle mais nous sommes bien obligés de faire taire celui qui se met à gueuler."
 
-Chaque fois qu'un policier se fait buter, qu'un garage ou qu'un Selecta se fait braquer, pour la police ça ne fait pas de mystère: c'est signé Clyde Barrow et Bonnie Parker.
+Chaque fois qu'un policier se fait buter, qu'un  ou qu'un Selecta se fait braquer, pour la police ça ne fait pas de mystère: c'est signé Clyde Barrow et Bonnie Parker.
 
 Maintenant chaque fois qu'ils essaient de se ranger, de s'installer tranquilles dans une villa spacieuse avec piscine , dans les trois jours voilà le tac tac tac des mitraillettes qui reviennent à l'attaque.
 
