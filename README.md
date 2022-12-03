@@ -28,4 +28,4 @@ La seule solution c'était mourir.
 Mais plus d'un les a suivis en enfer
 Quand sont morts Barrow et Bonnie Parker
 
-Mais ils sont vecu ensemble jusqu'à ce soir
+Mais ils ont vecu ensemble jusqu'à ce soir et sont passés par les PO de l'ETML. Heureusement, sans laisser de cadavres derrière eux :)
