@@ -25,6 +25,10 @@ Clyde s'en fout, c'est pour Bonnie qu'il tremble.
 
 Mais du coup, ils vont faire un dernier bracage qui va les rendre très célèbre.
 
+
+je m'apelle paul
+
+
 De toute façon ils ne pouvaient plus s'en sortir.
 La seule solution c'était mourir.
 Mais plus d'un les a suivis en enfer
