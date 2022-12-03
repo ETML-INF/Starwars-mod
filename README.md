@@ -5,7 +5,7 @@ Ecoutez l'histoire de Bonnie and Clyde!
 Alors voilà, Clyde a une petite amie.
 Elle est belle et son prénom est Bonnie.
 À eux deux ils forment le gang Barrow-Parker.
-Leurs noms : Bonnie Parker et Clyde Barrow, Bonnie and Clyde pour les intimes.
+Leurs noms : Bonnie Barrow et Clyde Parker, Bonnie and Clyde pour les intimes.
 
 "Moi, lorsque j'ai connu Clyde autrefois", dit Bonnie.
 "C'était un gars loyal, honnête, sympa et droit".
