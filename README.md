@@ -28,9 +28,6 @@ Mais du coup, ils vont faire un dernier bracage qui va les rendre très célèbr
 De toute façon ils ne pouvaient plus s'en sortir.
 La seule solution c'était mourir.
 Mais plus d'un les a suivis en enfer
-Quand sont morts Barrow et Bonnie Parker
-fin !!!
+Quand sont morts Barrow et Bonnie Parker.
 
-Hello world !
-
-salut monde !
+Mais depuis que j'ai monter mon nouveau PC, Je vu sont coter ospf qui étais incroyable. Quand j'ai pu branche mon rj45 pour avoir une connexion internet. C'étai incoryable!
