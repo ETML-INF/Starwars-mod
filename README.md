@@ -36,6 +36,6 @@ La seule solution c'était mourir.
 Mais plus d'un les a suivis en enfer
 Quand sont morts Barrow et Bonnie Parker.
 
-Mais depuis que j'ai monter mon nouveau PC, Je vu sont coter ospf qui étais incroyable. Quand j'ai pu branche mon rj45 pour avoir une connexion internet. C'étai incoryable!
+Mais depuis que j'ai monter mon nouveau PC, Je vu sont coter ospf qui étais incroyable. Quand j'ai pu brancher mon rj45 pour avoir une connexion internet. C'étai incoryable!
 OK
-modification hyper nessesaire parce que je le veux bien
+modification hyper necesaire parce que je le veux bien
