@@ -1,10 +1,28 @@
 # Activité Github
 
-## Pitch (adapté à partir du doc Craftmanship)
+## Mise en place
 
-Ici vous allez découvrir les bases d'un VCS (Version Control System) très populaire: Github.
+1. Vérifier les prérequis:
+   - Docker (v24 ou plus)
+   - Un client Git (git bash, cmder, github, desktop, ...) 
+   - Github Desktop
+   - VS Code
+2. Cloner ce repo
+3. Ouvrir un terminal dans le repo local
+4. Faire `docker run -d -p 8888:80 --name starwars -v ./public-html/index.html:/usr/local/apache2/htdocs/index.html starwars`
+5. Sur grand écran, afficher:
+   - Le repo [remote](https://github.com/ETML-INF/Starwars-mod.git) à gauche
+   - Notre version de l'histoire dans un [navigateur](http://localhost:8888)
+6. Sur le petit écran, afficher:
+   - VS Code ouvert dans le repo local à gauche
+   - Github Desktop à droite
 
-Les systèmes de contrôle de version permettent de :
+
+## Pitch 
+
+Ici vous allez découvrir les bases d'un VCS (Version Control System) distribué très populaire: Github.
+
+Les systèmes de contrôle de version permettent entre autres de :
 - Comparer des fichiers
 - Identifier les différences
 - Travailler à plusieurs sur un même programme
@@ -14,12 +32,12 @@ d'identifier quelle version est actuellement en développement, QA et production
 
 ## Activité
 
-Le visiteur repère le poste grâce à la signalétique (tbd).
+Le visiteur repère le poste grâce à la signalétique.
 
 Il est accueilli par un élève qui lui fait le pitch et lui présente le principe de fonctionnement d'un VCS distribué ([schéma](Git.png) à l'appui), puis l'activité:
 
-- Nous écrivons une nouvelle version de l'histoire de Bonnie et Clyde, nous avons mis notre travail sous contrôle de version
-- Voici le repo [remote](https://github.com/ETML-INF/Bonnie-and-Clyde.git) sur Github, voici l'histoire dans son état actuel, lisez-la !
+- Montrer l'histoire dans son état actuel Nous écrivons une nouvelle version de l'histoire de Star Wars, nous avons mis notre travail sous contrôle de version
+- Voici le repo [remote](https://github.com/ETML-INF/Starwars-mod.git) sur Github, voici l'histoire dans son état actuel, lisez-la !
 - Voici le repo local dans un environnement de développement (VS Code)
 - Voici l'application Github Desktop qui va nous permettre de synchroniser le repo local et le remote. Je me suis authentifié auprès de cette application.
 - Allez-y modifiez l'histoire à votre guise:
