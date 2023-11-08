@@ -1,0 +1,9 @@
+services:
+  starwars:
+    image: httpd:2.4
+    container_name: starwars
+    restart: always
+    ports:
+      - "8888:80"
+    volumes:
+      - ./public-html:/usr/local/apache2/htdocs
