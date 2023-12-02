@@ -333,7 +333,7 @@
 </html>
 <script>
   Promise.all([
-    fetch('starwars.txt').then(x => x.text())
+    fetch('http://localhost:8888/starwars.txt?bob='+Math.random()).then(x => x.text())
   ]).then(([resp]) => {
     lines = resp.split(/\r\n|\r|\n/);
     let t=document.createElement('p')
